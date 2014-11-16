@@ -1,0 +1,4 @@
+This is a a port of sun7i nand driver from sdk kenrel for sunxi-3.4.
+Make lib fires, then set LICHEE_KDIR to sunxi-3.4 kenrel path to build it.
+Be careful, it suddenly erased whole nand while i was porting it because 
+of wrong parameters.
